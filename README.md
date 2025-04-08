@@ -29,7 +29,7 @@ Example below is for Linux:
     "get-stock-prices": {
       "command": "node",
       "args": [
-        "/home/{username}/Desktop/Stock-Price-MCP/index.js"
+        "/PathToYourMCPfiles/index.js"
       ]
     }
   }
